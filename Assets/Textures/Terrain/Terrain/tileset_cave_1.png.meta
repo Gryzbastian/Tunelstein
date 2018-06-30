@@ -1,0 +1,1336 @@
+fileFormatVersion: 2
+guid: 70e09603ecb69434993f276182e4e060
+timeCreated: 1509903099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileset_cave_1_0
+    21300002: tileset_cave_1_1
+    21300004: tileset_cave_1_2
+    21300006: tileset_cave_1_3
+    21300008: tileset_cave_1_4
+    21300010: tileset_cave_1_5
+    21300012: tileset_cave_1_6
+    21300014: tileset_cave_1_7
+    21300016: tileset_cave_1_8
+    21300018: tileset_cave_1_9
+    21300020: tileset_cave_1_10
+    21300022: tileset_cave_1_11
+    21300024: tileset_cave_1_12
+    21300026: tileset_cave_1_13
+    21300028: tileset_cave_1_14
+    21300030: tileset_cave_1_15
+    21300032: tileset_cave_1_16
+    21300034: tileset_cave_1_17
+    21300036: tileset_cave_1_18
+    21300038: tileset_cave_1_19
+    21300040: tileset_cave_1_20
+    21300042: tileset_cave_1_21
+    21300044: tileset_cave_1_22
+    21300046: tileset_cave_1_23
+    21300048: tileset_cave_1_24
+    21300050: tileset_cave_1_25
+    21300052: tileset_cave_1_26
+    21300054: tileset_cave_1_27
+    21300056: tileset_cave_1_28
+    21300058: tileset_cave_1_29
+    21300060: tileset_cave_1_30
+    21300062: tileset_cave_1_31
+    21300064: tileset_cave_1_32
+    21300066: tileset_cave_1_33
+    21300068: tileset_cave_1_34
+    21300070: tileset_cave_1_35
+    21300072: tileset_cave_1_36
+    21300074: tileset_cave_1_37
+    21300076: tileset_cave_1_38
+    21300078: tileset_cave_1_39
+    21300080: tileset_cave_1_40
+    21300082: tileset_cave_1_41
+    21300084: tileset_cave_1_42
+    21300086: tileset_cave_1_43
+    21300088: tileset_cave_1_44
+    21300090: tileset_cave_1_45
+    21300092: tileset_cave_1_46
+    21300094: tileset_cave_1_47
+    21300096: tileset_cave_1_48
+    21300098: tileset_cave_1_49
+    21300100: tileset_cave_1_50
+    21300102: tileset_cave_1_51
+    21300104: tileset_cave_1_52
+    21300106: tileset_cave_1_53
+    21300108: tileset_cave_1_54
+    21300110: tileset_cave_1_55
+    21300112: tileset_cave_1_56
+    21300114: tileset_cave_1_57
+    21300116: tileset_cave_1_58
+    21300118: tileset_cave_1_59
+    21300120: tileset_cave_1_60
+    21300122: tileset_cave_1_61
+    21300124: tileset_cave_1_62
+    21300126: tileset_cave_1_63
+    21300128: tileset_cave_1_64
+    21300130: tileset_cave_1_65
+    21300132: tileset_cave_1_66
+    21300134: tileset_cave_1_67
+    21300136: tileset_cave_1_68
+    21300138: tileset_cave_1_69
+    21300140: tileset_cave_1_70
+    21300142: tileset_cave_1_71
+    21300144: tileset_cave_1_72
+    21300146: tileset_cave_1_73
+    21300148: tileset_cave_1_74
+    21300150: tileset_cave_1_75
+    21300152: tileset_cave_1_76
+    21300154: tileset_cave_1_77
+    21300156: tileset_cave_1_78
+    21300158: tileset_cave_1_79
+    21300160: tileset_cave_1_80
+    21300162: tileset_cave_1_81
+    21300164: tileset_cave_1_82
+    21300166: tileset_cave_1_83
+    21300168: tileset_cave_1_84
+    21300170: tileset_cave_1_85
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_cave_1_0
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 787
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 641
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 761
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 760
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 494
+        width: 52
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 514
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 518
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 373
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 85
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 85
+        width: 62
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 86
+        width: 63
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 85
+        width: 64
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 151
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 150
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5190971, y: 0.5174112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 132
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 85
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 84
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 84
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 194
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 195
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 197
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 992
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 960
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 960
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 928
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 928
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 961
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 929
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 992
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_70
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_71
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 681
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_73
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 646
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 195
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 194
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_78
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 323
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_81
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 320
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 317
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_83
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 326
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_84
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 816
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tileset_cave_1_85
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 521
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
