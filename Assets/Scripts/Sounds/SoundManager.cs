@@ -53,9 +53,20 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            FileStream fs = new FileStream(soundFilePath, FileMode.Create);
-            fs.Close();
+            CreateDefaultFile();
         }
+    }
+    
+    private void CreateDefaultFile()
+    {
+        FileStream fs = new FileStream(soundFilePath, FileMode.Create, FileAccess.Write, FileShare.None);
+        StreamWriter sw = new StreamWriter(fs);
+        sw.WriteLine(SoundSettings.musicVolume.ToString());
+        sw.WriteLine(SoundSettings.effectsVolume.ToString());
+        sw.Flush();
+        sw.Close();
+        fs.Close();
+        fs.Close();
     }
 
     private void LoadVolumeSettings()

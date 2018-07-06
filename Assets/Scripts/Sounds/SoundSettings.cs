@@ -4,6 +4,6 @@ using UnityEngine;
 
 public static class SoundSettings
 {
-    public static float musicVolume;
-    public static float effectsVolume;
+    public static float musicVolume = 0.5f;
+    public static float effectsVolume = 0.5f;
 }
